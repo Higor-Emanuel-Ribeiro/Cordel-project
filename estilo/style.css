@@ -20,7 +20,7 @@ header {
 
 header > h1 {
     color: #ffffff;
-    font-size: 7vw;
+    font-size: 6.5vw;
     font-family: 'Passion One', cursive;
     font-variant: small-caps;
     text-align: center;
@@ -45,7 +45,7 @@ a:hover {
 
 main {
     font-family: 'Sriracha', cursive;
-    font-size: 2.8vw;
+    font-size: 2.5vw;
 }
 
 .normal {
